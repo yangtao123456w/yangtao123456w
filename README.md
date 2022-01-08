@@ -1,4 +1,4 @@
-### Hi there 👋
+## “You can never understand one language until you understand at least two.” – Geoffrey Willans
 
 <!--
 **yangtao123456w/yangtao123456w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
